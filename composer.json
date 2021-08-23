@@ -1,0 +1,26 @@
+{
+  "name": "output/deviance",
+  "type": "library",
+  "description": "Javascript output deviance",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "output",
+    "deviance"
+  ],
+  "homepage": "https://github.com/energia-source/output-deviance",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Deviance\\": "lib/"
+    }
+  }
+}
